@@ -1,4 +1,4 @@
-# An Infinite Argument is used to declare a FLEXIBLE number of arguments.
+#An Infinite Argument is used to declare a FLEXIBLE number of arguments.
 
 
 def print_people(*people):
