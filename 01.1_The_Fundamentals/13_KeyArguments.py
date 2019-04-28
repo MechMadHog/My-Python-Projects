@@ -1,4 +1,4 @@
-# A Key Argument is an argument that targets SPECIFIC arguments.
+#A Key Argument is an argument that targets SPECIFIC arguments.
 
 
 def print_something(name="Unknown Name", age="Unknown"):
